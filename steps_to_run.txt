@@ -1,0 +1,1 @@
+./venv/bin/python3 -m src.rag_doc_ingestion.ingest_docs
